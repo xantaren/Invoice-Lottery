@@ -1,5 +1,5 @@
 # Invoice-Lottery
-極簡風(Minimalistic)統一發票Android App
+極簡風(Minimalistic)統一發票對獎Android App
 
 ## 特色
   * 使用__retrofit2__處理API request，以最佳化載入時間
